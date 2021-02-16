@@ -1,0 +1,404 @@
+[
+  {
+    "Business Task 0": {
+      "level": 1,
+      "estimated_duration": 7
+    }
+  },
+  {
+    "Business Task 1": {
+      "level": 3,
+      "estimated_duration": 4
+    }
+  },
+  {
+    "Business Task 2": {
+      "level": 1,
+      "estimated_duration": 6
+    }
+  },
+  {
+    "Business Task 3": {
+      "level": 5,
+      "estimated_duration": 4
+    }
+  },
+  {
+    "Business Task 4": {
+      "level": 2,
+      "estimated_duration": 7
+    }
+  },
+  {
+    "Business Task 5": {
+      "level": 5,
+      "estimated_duration": 7
+    }
+  },
+  {
+    "Business Task 6": {
+      "level": 4,
+      "estimated_duration": 5
+    }
+  },
+  {
+    "Business Task 7": {
+      "level": 2,
+      "estimated_duration": 11
+    }
+  },
+  {
+    "Business Task 8": {
+      "level": 4,
+      "estimated_duration": 12
+    }
+  },
+  {
+    "Business Task 9": {
+      "level": 1,
+      "estimated_duration": 4
+    }
+  },
+  {
+    "Business Task 10": {
+      "level": 2,
+      "estimated_duration": 7
+    }
+  },
+  {
+    "Business Task 11": {
+      "level": 4,
+      "estimated_duration": 3
+    }
+  },
+  {
+    "Business Task 12": {
+      "level": 3,
+      "estimated_duration": 10
+    }
+  },
+  {
+    "Business Task 13": {
+      "level": 1,
+      "estimated_duration": 3
+    }
+  },
+  {
+    "Business Task 14": {
+      "level": 2,
+      "estimated_duration": 10
+    }
+  },
+  {
+    "Business Task 15": {
+      "level": 2,
+      "estimated_duration": 12
+    }
+  },
+  {
+    "Business Task 16": {
+      "level": 3,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 17": {
+      "level": 4,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 18": {
+      "level": 1,
+      "estimated_duration": 7
+    }
+  },
+  {
+    "Business Task 19": {
+      "level": 4,
+      "estimated_duration": 4
+    }
+  },
+  {
+    "Business Task 20": {
+      "level": 5,
+      "estimated_duration": 4
+    }
+  },
+  {
+    "Business Task 21": {
+      "level": 4,
+      "estimated_duration": 4
+    }
+  },
+  {
+    "Business Task 22": {
+      "level": 2,
+      "estimated_duration": 5
+    }
+  },
+  {
+    "Business Task 23": {
+      "level": 5,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 24": {
+      "level": 5,
+      "estimated_duration": 12
+    }
+  },
+  {
+    "Business Task 25": {
+      "level": 3,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 26": {
+      "level": 2,
+      "estimated_duration": 12
+    }
+  },
+  {
+    "Business Task 27": {
+      "level": 3,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 28": {
+      "level": 1,
+      "estimated_duration": 7
+    }
+  },
+  {
+    "Business Task 29": {
+      "level": 4,
+      "estimated_duration": 4
+    }
+  },
+  {
+    "Business Task 30": {
+      "level": 4,
+      "estimated_duration": 4
+    }
+  },
+  {
+    "Business Task 31": {
+      "level": 1,
+      "estimated_duration": 7
+    }
+  },
+  {
+    "Business Task 32": {
+      "level": 4,
+      "estimated_duration": 7
+    }
+  },
+  {
+    "Business Task 33": {
+      "level": 3,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 34": {
+      "level": 2,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 35": {
+      "level": 1,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 36": {
+      "level": 5,
+      "estimated_duration": 3
+    }
+  },
+  {
+    "Business Task 37": {
+      "level": 4,
+      "estimated_duration": 5
+    }
+  },
+  {
+    "Business Task 38": {
+      "level": 1,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 39": {
+      "level": 5,
+      "estimated_duration": 7
+    }
+  },
+  {
+    "Business Task 40": {
+      "level": 1,
+      "estimated_duration": 6
+    }
+  },
+  {
+    "Business Task 41": {
+      "level": 1,
+      "estimated_duration": 5
+    }
+  },
+  {
+    "Business Task 42": {
+      "level": 5,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 43": {
+      "level": 1,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 44": {
+      "level": 5,
+      "estimated_duration": 8
+    }
+  },
+  {
+    "Business Task 45": {
+      "level": 5,
+      "estimated_duration": 8
+    }
+  },
+  {
+    "Business Task 46": {
+      "level": 1,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 47": {
+      "level": 1,
+      "estimated_duration": 12
+    }
+  },
+  {
+    "Business Task 48": {
+      "level": 1,
+      "estimated_duration": 3
+    }
+  },
+  {
+    "Business Task 49": {
+      "level": 5,
+      "estimated_duration": 7
+    }
+  },
+  {
+    "Business Task 50": {
+      "level": 5,
+      "estimated_duration": 12
+    }
+  },
+  {
+    "Business Task 51": {
+      "level": 1,
+      "estimated_duration": 11
+    }
+  },
+  {
+    "Business Task 52": {
+      "level": 3,
+      "estimated_duration": 7
+    }
+  },
+  {
+    "Business Task 53": {
+      "level": 1,
+      "estimated_duration": 3
+    }
+  },
+  {
+    "Business Task 54": {
+      "level": 4,
+      "estimated_duration": 10
+    }
+  },
+  {
+    "Business Task 55": {
+      "level": 2,
+      "estimated_duration": 11
+    }
+  },
+  {
+    "Business Task 56": {
+      "level": 4,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 57": {
+      "level": 3,
+      "estimated_duration": 7
+    }
+  },
+  {
+    "Business Task 58": {
+      "level": 2,
+      "estimated_duration": 4
+    }
+  },
+  {
+    "Business Task 59": {
+      "level": 4,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 60": {
+      "level": 2,
+      "estimated_duration": 10
+    }
+  },
+  {
+    "Business Task 61": {
+      "level": 3,
+      "estimated_duration": 8
+    }
+  },
+  {
+    "Business Task 62": {
+      "level": 1,
+      "estimated_duration": 10
+    }
+  },
+  {
+    "Business Task 63": {
+      "level": 4,
+      "estimated_duration": 11
+    }
+  },
+  {
+    "Business Task 64": {
+      "level": 4,
+      "estimated_duration": 5
+    }
+  },
+  {
+    "Business Task 65": {
+      "level": 3,
+      "estimated_duration": 9
+    }
+  },
+  {
+    "Business Task 66": {
+      "level": 1,
+      "estimated_duration": 3
+    }
+  }
+]
